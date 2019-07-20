@@ -45,6 +45,4 @@ def kabisat(tahun):
                 return False
 
 yr = int(input('Masukan Tahun : '))
-#strtday = input('Masukan Hari (Mon, Tue, Wed, Thu, Fri, Sat, Sun) : ')
-#strtday = Tu
 klndr(yr, minggu.index('Tu'))
